@@ -42,7 +42,7 @@ def load_workload_instance(file_path):
 
 if __name__ == "__main__":
     # Example usage demonstration
-    sample_file = "multi_resource_n28_m2.txt"
+    sample_file = "Data\multi_resource_n28_m2.txt"
     try:
         n, m, utilities, demands, capacities = load_workload_instance(sample_file)
         print("=== Dataset Ingestion Summary ===")
