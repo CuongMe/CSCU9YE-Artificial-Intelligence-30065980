@@ -3,6 +3,4 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 30065980_CSCU9YE_Assignment.ipynb
-tasks/plan.md
-tasks/research.md
-tasks/todo.md
+tasks/
